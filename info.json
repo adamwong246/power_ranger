@@ -1,0 +1,13 @@
+{
+  "name": "power_ranger",
+  "version": "0.0.1",
+  "title": "Power Ranger",
+  "description": "Managing your electrical grid is harder",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 0.15.0"
+  ],
+  "author": "adamwong246",
+  "contact": "adamwong246@gmail.com",
+  "homepage": "https://github.com/adamwong246/power_ranger"
+}
